@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 from rdkit.Chem import DataStructs
 from sklearn.impute import KNNImputer
-from feature_engine.selection import DropCorrelatedFeatures
 from sklearn.compose import ColumnTransformer
 import torch
 import torch.nn as nn
