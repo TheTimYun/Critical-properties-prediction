@@ -27,7 +27,7 @@ The best models of Fully-connected Neural Networks have folowing performance:
 * **Tc**: RMSE for test dataset is 29 K, $R^{2}$ is 0.89  
 * **Pc**: RMSE for test dataset is 2.19 bar, $R^{2}$ is 0.95  
 * **omega**: RMSE for test dataset is 0.078, $R^{2}$ is 0.79    
-However, there is a small problem that you need to keep a lot of files: column transofrmers (for each separate model), imputer, list of descriptors to drop, etc., so it's  recommended to try Graph Neural Networks ^:-))
+However, there is a small problem that you need to keep a lot of files: column transofrmers (for each separate model), imputer, list of descriptors to drop, etc., so it's  recommended to try Graph Neural Networks, which require only molecular structure ^:-))
 ---
 The best models of Graph  Neural Networks have folowing performance:
 
